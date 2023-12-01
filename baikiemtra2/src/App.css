@@ -1,0 +1,10 @@
+.camondoi1 {
+  display: flex;
+}
+.camondoi2 {
+  width: 250px;
+  height: 500px;
+}
+body {
+  background-color: aquamarine;
+}
